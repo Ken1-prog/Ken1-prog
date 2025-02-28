@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kenton A. Fong
-- logo: ![ScreenPic1](images pics/Ken Linked in pic.jpg)
+- ![ScreenPic1](pics/Pic3_proj_mtg.jpg)
 - 👀 I’m interested in Data Analyst or Business Intelligence Analyst job opportunities.
 - 🌱 I’m currently learning SQL, Python, and Tableau
 - 💞️ I’m looking to collaborate on any open source projects.
